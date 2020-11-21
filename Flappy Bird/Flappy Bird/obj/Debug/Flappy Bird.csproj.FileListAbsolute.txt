@@ -1,0 +1,10 @@
+C:\Users\zperl\Documents\Flappy Bird\Flappy Bird\Flappy Bird\obj\Debug\Flappy Bird.csprojAssemblyReference.cache
+C:\Users\zperl\Documents\Flappy Bird\Flappy Bird\Flappy Bird\obj\Debug\Flappy_Bird.flappyBirdGame.resources
+C:\Users\zperl\Documents\Flappy Bird\Flappy Bird\Flappy Bird\obj\Debug\Flappy_Bird.Properties.Resources.resources
+C:\Users\zperl\Documents\Flappy Bird\Flappy Bird\Flappy Bird\obj\Debug\Flappy Bird.csproj.GenerateResource.cache
+C:\Users\zperl\Documents\Flappy Bird\Flappy Bird\Flappy Bird\obj\Debug\Flappy Bird.csproj.CoreCompileInputs.cache
+C:\Users\zperl\Documents\Flappy Bird\Flappy Bird\Flappy Bird\bin\Debug\Flappy Bird.exe.config
+C:\Users\zperl\Documents\Flappy Bird\Flappy Bird\Flappy Bird\bin\Debug\Flappy Bird.exe
+C:\Users\zperl\Documents\Flappy Bird\Flappy Bird\Flappy Bird\bin\Debug\Flappy Bird.pdb
+C:\Users\zperl\Documents\Flappy Bird\Flappy Bird\Flappy Bird\obj\Debug\Flappy Bird.exe
+C:\Users\zperl\Documents\Flappy Bird\Flappy Bird\Flappy Bird\obj\Debug\Flappy Bird.pdb
